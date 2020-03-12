@@ -1,0 +1,34 @@
+Travailler sur la création d'un site qui ressemble aux différents visuels en utilisant les media queries et les flexbox
+
+Ne pas oublier d'utiliser display: none pour faire disparaitre la div contenant l'image en format mobile et un display: block pour la faire aparaître
+
+Mon site contient en mobile first
+
+Header : H1
+
+Nav : menu de navigation avec 5 liens
+
+Section : h2 + p
+
+Div / img
+
+Section : h2 + 3 articles>h3 + p
+
+Section h2 + form
+
+footer nav avec icône de réseaux sociaux / deuxieme nav avec mes 3 
+
+
+Pour les mediaqueries :
+
+1er changement avec min-width: 500px;
+2em changement avec min-width:900px;
+
+Code couleur icône de réseaux sociaux :
+
+facebook : #3b5998
+twitter : #00aced
+pinterest : #bd081c
+snapchat : #fffc01
+
+code couleur HR : #008ba3
